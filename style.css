@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    height:80px;
+    background-color: black
+}
+li{
+    list-style-type: none;
+    padding-left: 50px;
+}
+ul{
+    padding:20px 50%;
+    margin:0px;
+    display:flex;
+}
+body{
+    margin:0px
+}
